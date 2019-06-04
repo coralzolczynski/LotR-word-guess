@@ -1,0 +1,18 @@
+.background {
+    background-color: mediumaquamarine;
+    background-size: auto;
+}
+
+.container {
+    color:darkgreen;
+    font-family: 'Charm', cursive;
+}
+
+.row {
+    margin-top: 50px;
+}
+
+.card {
+    background-color: rgb(177, 223, 198);
+}
+
